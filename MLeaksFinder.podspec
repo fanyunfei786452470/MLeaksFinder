@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 #TODO: Add long description of the pod here.
 #                       DESC
 
-  s.homepage         = "https://github.com/Zepo/MLeaksFinder"
+  s.homepage         = "https://github.com/fanyunfei786452470/MLeaksFinder"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Zeposhe" => "zeposhe@163.com" }
-  s.source           = { :git => "https://github.com/Zepo/MLeaksFinder.git", :tag => s.version }
+  s.source           = { :git => "https://github.com/fanyunfei786452470/MLeaksFinder", :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '6.0'
